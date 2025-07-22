@@ -1,2 +1,3 @@
-# Foundations-secure-ai-prep
-Beginner friendly hands-on prep for building secure AI systems
+# Secure ML Practices
+Hands on labs and notes focused on secure machine learning practices; including API safety, prompt injection, input validation, and access control. Designed for AI/ML engineers and learners.
+
