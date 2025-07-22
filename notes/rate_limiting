@@ -1,0 +1,7 @@
+**How does rate limiting protect a chatbot or API?**
+
+Rate limiting protects a chatbot or API by controlling how many requests a user can make in a set period of time. This prevents systems from being overwhelmed by abuse like spam or DoS attacks. It also make sure that no single user can monopolize resources. To set the correct limits, load testing can help determine how much traffic your system can safely handle.
+
+**When would you want to use this?**
+
+You’d want to use rate limiting any time your system is accessed by the public. APIs, chatbots, and form submissions are all prone to accidental overload or abuse.
