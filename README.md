@@ -1,6 +1,6 @@
 # Secure ML Practices
 
-This project is an 8 day hands-on exploration of secure machine learning practices, focused on real-world implementation.
+This project is an 8 part hands-on exploration of secure machine learning practices, focused on real-world implementation.
 
 It demonstrates skills in API security, input validation, rate limiting, logging and secure authorization workflows.
 
