@@ -1,2 +1,7 @@
 # Secure ML Practices
-Hands on labs and notes focused on secure machine learning practices, including API safety, prompt injection, input validation, and access control. Designed for AI/ML engineers and learners.
+
+This project is an 8 day hands-on exploration of secure machine learning practices, focused on real-world implementation.
+
+It demonstrates skills in API security, input validation, rate limiting, logging and secure authorization workflows.
+
+Included as part of a broader ML portfolio to showcase practical understanding of security principles in AI system development.
